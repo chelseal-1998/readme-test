@@ -62,7 +62,7 @@ A list of technologies used within the project:
 
 A framework used within the project:
 
-- Groot : Groot is a web automation framework built on Java and uses Selenium Webdriver API. The framework is based on the Page Object Model approach whci enables easy test maintenance
+- Groot , Groot is a web automation framework built on Java and uses Selenium Webdriver API. The framework is based on the Page Object Model approach which enables easy test maintenance
 
 ## Main Features
 
